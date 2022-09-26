@@ -1,6 +1,6 @@
 Assignment 2
 
-Python yourname file link, for print and varible exercise: 
+Python yourname file link, for print and varible exercise: https://github.com/ShafaOnGitHub/psych503/blob/c7591a1ea8b1efbaf4a785064c6efb4238004bfb/Assignment%202/Shafa.py
 
 Python Assignment2 file link: https://github.com/ShafaOnGitHub/psych503/blob/fa87c060386a7b36a0e9e09074204d117778e086/Assignment%202/Assignment_2.py
 
