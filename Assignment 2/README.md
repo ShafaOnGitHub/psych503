@@ -14,8 +14,16 @@ Variable Exercise:
 3). NA
 4). No problem, it seems python is able to store the same value as different varibles. 
 5). No changing the value of x only changed that varible, and not the other ones. 
-6). 
+6). No change to letter letterx. This means that variables are created and modified in the order that the code appears. Variables assignment works independently of one another 
 
+Boolean Exercise: 
+1). 1 is equal to 1.0, but "1" is not equal to "1.0" This is because without the parentheses, they are considered integers, were 1 and 1.0 are equal, but with parentheses, they are considered string varibles, like a word. 
+2). Yes 
+3). print (1 == 1.0 and not "1" == "1.0" and 5 ==(3+2) )
+print (1 == 1.0 or 5 == (3+2) and not "1" == "1.0" )
+print (5 == (3+2) and 1 == 1.0 and not "1" == "1.0")
+print (5 == (3+2) or 1 == 1.0 and not "1" == "1.0")
+print (5 == (3+2) and not "1" == "1.0" and 1 == 1.0)
 
 
 
