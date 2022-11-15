@@ -68,12 +68,20 @@ mon = monitors.Monitor('myMonitor', width=35.56, distance=60)
 #use x,y coordinates to specify the pixel resolution of your monitor
 mon.setSizePix([1600,900])
 
-# the only part that is actually nessessary is the window is to define the wondow pixel size, which is the same as our monitor.  
+# the only part that is actually nessessary is the window is to define the window pixel size, which is the same as our monitor.  
 win = visual.Window(monitor=mon)
 
 
 
 # Stimulus exercise: 
+
+1. This will make all the images square, hoever if you want to preserve their dimentions, then you can simply leave out the units, and multiply he image size by whatever constant you want. However the drawback of this is it is difficult to set min an max pixels for that image. 
+
+2. see .py stimulus code 
+
+3. see .py stimulus code 
+
+4. see .py stimulus code 
 
 
 
