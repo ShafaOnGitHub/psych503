@@ -10,12 +10,12 @@ See wait_exercise.py file
 
 3. With the ccountdown timer, it is still undershooting the time we have said. So still it is not exactly precise. 
 
-4. See .py file 
+4. See clocks_assignment.py file 
 
 
 # Frame based Timing exercise 
 
-1. see .py file 
+1. see clocks_assignment.py file 
 
 2. less than 20 frames per second are dropped for my experiment, so I will keep it as is. 
 
