@@ -13,4 +13,9 @@ See .py file
 4. See .py file 
 
 
-# 
+# Frame based Timing exercise 
+
+1. see .py file 
+
+2. less than 20 frames per second are dropped for my experiment, so I will keep it as is. 
+
