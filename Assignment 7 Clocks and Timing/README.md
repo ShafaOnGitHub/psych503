@@ -1,5 +1,5 @@
 # Wait exercise
-See .py file 
+See wait_exercise.py file 
 
 
 # Clocks exercise
